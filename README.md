@@ -11,7 +11,7 @@
 7. in front_end folder double click on **npm_run_devserver.bat (it will run the poc  application, don,t close the command prompt) <br>
 8. copy paste the url in browser which was shown in npm console <br>
 
-#note:- for second time applicatin run no need to follow above steps please go through bellow steps <br>
+<h3>note:- for second time applicatin run no need to follow above steps please go through bellow steps </h3><br>
 
 1.Goto Back_end folder double click on **exe_run.bat** file (it will run backend server dont close the command prompt) <br>
 2.Goto front_end folder double click on **npm_run_devserver.bat (it will run the poc  application, don,t close the command prompt) <br>
