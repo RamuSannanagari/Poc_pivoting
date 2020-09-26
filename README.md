@@ -8,7 +8,7 @@
 4.Download git file as zip and unzip it. <br>
 5. goto Back_end folder double click on **exe_run.bat** file (it will run backend server dont close the command prompt) <br>
 6. goto front_end folder double click on **first_npm_run.bat** (once it will install all node modules it will auto close console window) <br>
-7. in front_end folder double click on **npm_run_devserver.bat (it will run the poc  application, don,t close the command prompt) <br>
+7. in front_end folder double click on **npm_run_devserver.bat** (it will run the poc  application, don,t close the command prompt) <br>
 8. copy paste the url in browser which was shown in npm console <br>
 
 <h3> Note:- for second time applicatin run no need to follow above steps please go through bellow steps </h3><br>
