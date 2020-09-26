@@ -1,5 +1,5 @@
 # Poc_pivoting
-#note:- python3 and node js already installed in your system please skip step no 1 to 3 <br>
+# Note:- python3 and node js already installed in your system please skip step no 1 to 3 <br>
 
 1.Download python using this link  [click hear to download python](https://www.python.org/ftp/python/3.8.6/python-3.8.6rc1-amd64.exe) <br>
 2.Goto python downloaded location and click on python3.exe file to install  --in python setup window please click the checkbox called Add python path <br>
@@ -11,7 +11,7 @@
 7. in front_end folder double click on **npm_run_devserver.bat (it will run the poc  application, don,t close the command prompt) <br>
 8. copy paste the url in browser which was shown in npm console <br>
 
-<h3>note:- for second time applicatin run no need to follow above steps please go through bellow steps </h3><br>
+<h3> Note:- for second time applicatin run no need to follow above steps please go through bellow steps </h3><br>
 
 1.Goto Back_end folder double click on **exe_run.bat** file (it will run backend server dont close the command prompt) <br>
 2.Goto front_end folder double click on **npm_run_devserver.bat (it will run the poc  application, don,t close the command prompt) <br>
