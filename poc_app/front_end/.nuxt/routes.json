@@ -1,0 +1,37 @@
+[
+  {
+    "name": "NewWorkspace",
+    "path": "/NewWorkspace",
+    "component": "E:\\\\Blender\\\\poc_installer\\\\front_end\\\\pages\\\\NewWorkspace.vue",
+    "chunkName": "pages/NewWorkspace",
+    "_name": "_172221b4"
+  },
+  {
+    "name": "SavedWorkspace",
+    "path": "/SavedWorkspace",
+    "component": "E:\\\\Blender\\\\poc_installer\\\\front_end\\\\pages\\\\SavedWorkspace\\\\index.vue",
+    "chunkName": "pages/SavedWorkspace/index",
+    "_name": "_0926ac43"
+  },
+  {
+    "name": "workspace",
+    "path": "/workspace",
+    "component": "E:\\\\Blender\\\\poc_installer\\\\front_end\\\\pages\\\\workspace\\\\index.vue",
+    "chunkName": "pages/workspace/index",
+    "_name": "_73125ace"
+  },
+  {
+    "name": "SavedWorkspace-id",
+    "path": "/SavedWorkspace/:id",
+    "component": "E:\\\\Blender\\\\poc_installer\\\\front_end\\\\pages\\\\SavedWorkspace\\\\_id.vue",
+    "chunkName": "pages/SavedWorkspace/_id",
+    "_name": "_2fe8e36b"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\Blender\\\\poc_installer\\\\front_end\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5d1b2f1e"
+  }
+]
